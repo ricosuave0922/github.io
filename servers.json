@@ -1,6 +1,10 @@
 {
   "servers": [
     {
+      "name": "Personal",
+      "address": "https://anisette-v3-server-ks7v.onrender.com/"
+    },
+    {
       "name": "SideStore",
       "address": "https://ani.sidestore.io"
     },
@@ -59,10 +63,6 @@
     {
       "name": "Realmzer",
       "address": "https://anisette.realmzer.xyz/"
-    },
-    {
-      "name": "Personal",
-      "address": "https://anisette-v3-server-ks7v.onrender.com/"
     }
   ],
   "cache": "https://servers.sidestore.io/servers.json.hash"
