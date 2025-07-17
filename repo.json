@@ -22,7 +22,8 @@
           "downloadURL": "https://www.dropbox.com/scl/fi/13krasffeccbmd776eakp/YouTubePlus_20.28.2_5.2b1.ipa?rlkey=uisqdbuqc3hns4sulzgnviqzx&dl=1",
           "size": 115800000,
           "version": "20.28.2",
-          "buildVersion": "5.2b1",
+          "buildVersion": "20.28.2",
+          "marketingVersion": "5.2b1",
           "date": "2025-07-16",
           "localizedDescription": null,
           "minOSVersion": null
@@ -31,7 +32,8 @@
           "downloadURL": "https://www.dropbox.com/scl/fi/8un86i3euzrtobq7zx0rb/YouTubePlus_20.14.2_5.2b1.ipa?rlkey=1lf2t23tnawcwlc5dqssbxyan&dl=1",
           "size": 105600000,
           "version": "20.14.2",
-          "buildVersion": "5.2b1",
+          "buildVersion": "20.14.2",
+          "marketingVersion": "5.2b1",
           "date": "2025-04-14",
           "localizedDescription": null,
           "minOSVersion": null
