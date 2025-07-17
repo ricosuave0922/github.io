@@ -1,9 +1,10 @@
 {
   "name": "My Source",
   "subtitle": "A source for all of my apps",
-  "description": "Welcome to my source! Here you'll find all of my apps.",
+  "description": "",
   "iconURL": "https://i.imgur.com/pqIZoZo.jpeg",
   "website": "https://altstudio.app",
+  "patreonURL": "",
   "tintColor": "#6156e2",
   "featuredApps": [
     "com.google.ios.youtube"
@@ -13,10 +14,10 @@
       "name": "YouTube",
       "bundleIdentifier": "com.google.ios.youtube",
       "marketplaceID": "",
-      "developerName": "",
+      "developerName": "Example Developer",
       "subtitle": "An awesome app.",
       "localizedDescription": "This is an awesome app only available on AltStore.",
-      "iconURL": "https://i.imgur.com/KMxCUR5.png",
+      "iconURL": "https://i.imgur.com/2OZ0LWG.png",
       "tintColor": "#fc0434",
       "category": "other",
       "screenshots": [],
@@ -26,7 +27,7 @@
           "size": 115800000,
           "version": "20.28.2",
           "buildVersion": null,
-          "date": "2025-07-17T14:59:00-05:00",
+          "date": "2025-07-17T15:24:00-05:00",
           "localizedDescription": null,
           "minOSVersion": null
         }
@@ -45,6 +46,8 @@
           "NSUserTrackingUsageDescription": "To personalize ads and provide ad measurement, YouTube will link activity from this app with activity from non-Google apps and websites."
         }
       },
+      "patreon": {}
     }
   ],
+  "news": []
 }
