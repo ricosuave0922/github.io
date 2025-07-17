@@ -44,9 +44,6 @@
           "com.apple.security.application-groups",
           "aps-environment",
           "keychain-access-groups",
-          "com.apple.developer.coremedia.allow-alternate-video-decoder-selection",
-          "com.apple.developer.usernotifications.communication",
-          "com.apple.developer.usernotifications.time-sensitive",
         ],
         "privacy": {
           "NSAppleMusicUsageDescription": "This lets you add your own audio files to your videos.",
