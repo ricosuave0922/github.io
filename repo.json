@@ -43,6 +43,7 @@
           "com.apple.security.application-groups",
           "aps-environment",
           "keychain-access-groups",
+          "get-task-allow",
         ],
         "privacy": {
           "NSAppleMusicUsageDescription": "This lets you add your own audio files to your videos.",
