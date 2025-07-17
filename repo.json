@@ -13,7 +13,6 @@
       "name": "YTLite Plus",
       "bundleIdentifier": "com.google.ios.youtube",
       "developerName": "Developer",
-      "subtitle": "An awesome app.",
       "localizedDescription": "This is an awesome app only available on AltStore.",
       "iconURL": "https://i.imgur.com/2OZ0LWG.png",
       "tintColor": "#fc0434",
