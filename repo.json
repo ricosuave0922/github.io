@@ -4,7 +4,6 @@
   "description": "",
   "iconURL": "https://i.imgur.com/pqIZoZo.jpeg",
   "website": "https://altstudio.app",
-  "patreonURL": "",
   "tintColor": "#6156e2",
   "featuredApps": [
     "com.google.ios.youtube"
@@ -46,7 +45,6 @@
           "NSUserTrackingUsageDescription": "To personalize ads and provide ad measurement, YouTube will link activity from this app with activity from non-Google apps and websites."
         }
       },
-      "patreon": {}
     }
   ],
   "news": []
