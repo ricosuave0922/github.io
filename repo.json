@@ -10,7 +10,7 @@
   ],
   "apps": [
     {
-      "name": "YouTube",
+      "name": "YTLite Plus",
       "bundleIdentifier": "com.google.ios.youtube",
       "developerName": "Developer",
       "subtitle": "An awesome app.",
