@@ -23,9 +23,8 @@
           "size": 115800000,
           "version": "20.28.2",
           "buildVersion": "20.28.2",
-          "marketingVersion": "5.2b1",
           "date": "2025-07-16",
-          "localizedDescription": null,
+          "localizedDescription": "YouTube v20.28.2 injected with YTLite Plus 5.2b1",
           "minOSVersion": null
         },
         {
@@ -33,9 +32,8 @@
           "size": 105600000,
           "version": "20.14.2",
           "buildVersion": "20.14.2",
-          "marketingVersion": "5.2b1",
           "date": "2025-04-14",
-          "localizedDescription": null,
+          "localizedDescription": "YouTube v20.14.2 injected with YTLite Plus 5.2b1",
           "minOSVersion": null
         },
       ],
