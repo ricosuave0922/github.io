@@ -19,6 +19,15 @@
       "screenshots": [],
       "versions": [
         {
+          "downloadURL": "https://www.dropbox.com/scl/fi/qlgd7sotqk05h7tao6vpt/YouTubePlus_20.30.5_5.2b2.ipa?rlkey=1mdxfd8hzzxum8f180w5svfij&dl=1",
+          "size": 116379447,
+          "version": "20.30.5",
+          "buildVersion": "20.30.5",
+          "date": "2025-07-29",
+          "localizedDescription": "YouTube v20.30.5 injected with YTLite Plus 5.2b2",
+          "minOSVersion": null
+        },
+        {
           "downloadURL": "https://www.dropbox.com/scl/fi/u451oz7532f366h54ed77/YouTubePlus_20.29.3_5.2b2.ipa?rlkey=qj5bjufsfw16g5fijucktaqzg&dl=1",
           "size": 116403092,
           "version": "20.29.3",
