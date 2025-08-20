@@ -3,10 +3,10 @@
   "subtitle": "A source for all of my apps",
   "description": "",
   "iconURL": "https://i.imgur.com/pqIZoZo.jpeg",
-  "website": "https://github.com/ricosuave0922/github.io/blob/main/repo.json?raw=true",
+  "website": "https://ricosuave0922.github.io",
   "tintColor": "#6156e2",
   "featuredApps": [
-    "com.google.ios.youtube"
+    "com.google.ios.youtube",
     "com.google.ios.youtubemusic"
   ],
   "apps": [
@@ -63,7 +63,7 @@
           "date": "2025-04-14",
           "localizedDescription": "YouTube v20.14.2 injected with YTLite Plus 5.2b1",
           "minOSVersion": null
-        },
+        }
       ],
       "appPermissions": {
         "entitlements": [
@@ -80,7 +80,7 @@
           "com.apple.security.application-groups",
           "aps-environment",
           "keychain-access-groups",
-          "get-task-allow",
+          "get-task-allow"
         ],
         "privacy": {
           "NSAppleMusicUsageDescription": "This lets you add your own audio files to your videos.",
@@ -96,7 +96,7 @@
       }
     },
     {
-    "name": "YTMusicUltimate",
+      "name": "YTMusicUltimate",
       "bundleIdentifier": "com.google.ios.youtubemusic",
       "developerName": "Developer",
       "localizedDescription": "The best tweak for the YouTube Music on iOS.",
@@ -112,22 +112,22 @@
           "date": "2025-08-19",
           "localizedDescription": "YouTube Music v8.33.4 injected with YTMusicUltimate v2.3.1",
           "minOSVersion": null
-        },
-          ],
+        }
+      ],
       "appPermissions": {
-       "entitlements": [],
+        "entitlements": [],
         "privacy": {
           "NSBluetoothAlwaysUsageDescription": "YouTube Music uses Bluetooth to locate and connect to Chromecast and other devices.",
           "NSBluetoothPeripheralUsageDescription": "YouTube Music uses Bluetooth to locate and connect to Chromecast and other devices.",
           "NSCameraUsageDescription": "To take a profile picture, allow YouTube Music to access your camera.",
           "NSContactsUsageDescription": "This will allow you to invite your family into your membership plan.",
           "NSLocalNetworkUsageDescription": "Access to your network allows YouTube Music to discover and connect to devices such as your TV.",
-          "NSMicrophoneUsageDescription": "This lets you include audio with your videos."
+          "NSMicrophoneUsageDescription": "This lets you include audio with your videos.",
           "NSPhotoLibraryAddUsageDescription": "To save images, allow YouTube Music to access your photo library.",
-          "NSPhotoLibraryUsageDescription": "To choose a profile picture, allow YouTube Music to access your photos.",
-        },
-      },
-    },
+          "NSPhotoLibraryUsageDescription": "To choose a profile picture, allow YouTube Music to access your photos."
+        }
+      }
+    }
   ],
   "news": []
 }
