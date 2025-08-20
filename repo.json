@@ -133,6 +133,7 @@
           "com.apple.developer.networking.wifi-info",
           "com.apple.developer.siri",
           "com.apple.security.application-groups",
+          "aps-environment",
           "keychain-access-groups"
         ],
         "privacy": {
