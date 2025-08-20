@@ -100,23 +100,32 @@
       "bundleIdentifier": "com.google.ios.youtubemusic",
       "developerName": "Developer",
       "localizedDescription": "The best tweak for the YouTube Music on iOS.",
-      "iconURL": "https://user-images.githubusercontent.com/38832025/235781424-06d81647-b3db-4d9b-94dc-cd65cdf09145.png?raw=true)",
+      "iconURL": "https://images.icon-icons.com/2657/PNG/256/youtube_music_icon_161084.png",
       "tintColor": "#fc0434",
       "screenshots": [],
       "versions": [
         {
           "downloadURL": "https://www.dropbox.com/scl/fi/4ayxq2arhz4rz07w6vdmb/YTMusicUltimate_8.33_v2.3.1.ipa?rlkey=5s9o1i20za8ol472vf86d1b7f&dl=1",
           "size": 92583200,
-          "version": "8.33",
-          "buildVersion": "8.33",
+          "version": "8.33.4",
+          "buildVersion": "8.33.4",
           "date": "2025-08-19",
-          "localizedDescription": "YouTube Music v8.33 injected with YTMusicUltimate v2.3.1",
+          "localizedDescription": "YouTube Music v8.33.4 injected with YTMusicUltimate v2.3.1",
           "minOSVersion": null
         },
           ],
       "appPermissions": {
        "entitlements": [],
-        "privacy": {}
+        "privacy": {
+          "NSBluetoothAlwaysUsageDescription": "YouTube Music uses Bluetooth to locate and connect to Chromecast and other devices.",
+          "NSBluetoothPeripheralUsageDescription": "YouTube Music uses Bluetooth to locate and connect to Chromecast and other devices.",
+          "NSCameraUsageDescription": "To take a profile picture, allow YouTube Music to access your camera.",
+          "NSContactsUsageDescription": "This will allow you to invite your family into your membership plan.",
+          "NSLocalNetworkUsageDescription": "Access to your network allows YouTube Music to discover and connect to devices such as your TV.",
+          "NSMicrophoneUsageDescription": "This lets you include audio with your videos."
+          "NSPhotoLibraryAddUsageDescription": "To save images, allow YouTube Music to access your photo library.",
+          "NSPhotoLibraryUsageDescription": "To choose a profile picture, allow YouTube Music to access your photos.",
+        },
       },
     },
   ],
