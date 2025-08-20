@@ -7,7 +7,6 @@
   "tintColor": "#6156e2",
   "featuredApps": [
     "com.google.ios.youtube"
-    "com.google.ios.youtubemusic"
   ],
   "apps": [
     {
@@ -92,29 +91,9 @@
           "NSMicrophoneUsageDescription": "This lets you include audio with your videos and search using your voice.",
           "NSPhotoLibraryUsageDescription": "This lets you upload media you've already created.",
           "NSUserTrackingUsageDescription": "To personalize ads and provide ad measurement, YouTube will link activity from this app with activity from non-Google apps and websites."
-        },
+        }
       },
-    },
-    {
-      "name": "YT Music Ultimate ",
-      "bundleIdentifier": "com.google.ios.youtubemusic",
-      "developerName": "Developer",
-      "localizedDescription": "The best tweak for the YouTube Music on iOS.",
-      "iconURL": "https://user-images.githubusercontent.com/38832025/235781424-06d81647-b3db-4d9b-94dc-cd65cdf09145.png?raw=true)",
-      "tintColor": "#fc0434",
-      "screenshots": [],
-      "versions": [
-        {
-          "downloadURL": "https://www.dropbox.com/scl/fi/4ayxq2arhz4rz07w6vdmb/YTMusicUltimate.ipa?rlkey=5s9o1i20za8ol472vf86d1b7f&dl=1",
-          "size": 92583200,
-          "version": "8.33",
-          "buildVersion": "8.33",
-          "date": "2025-08-19",
-          "localizedDescription": "YouTube Music v8.33 injected with YTMusicUltimate v2.3.1",
-          "minOSVersion": null
-        },
-      ],
-       },
+    }
   ],
   "news": []
 }
