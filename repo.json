@@ -92,9 +92,9 @@
           "NSMicrophoneUsageDescription": "This lets you include audio with your videos and search using your voice.",
           "NSPhotoLibraryUsageDescription": "This lets you upload media you've already created.",
           "NSUserTrackingUsageDescription": "To personalize ads and provide ad measurement, YouTube will link activity from this app with activity from non-Google apps and websites."
-        }
+        },
       },
-    }
+    },
     {
       "name": "YT Music Ultimate ",
       "bundleIdentifier": "com.google.ios.youtubemusic",
@@ -114,7 +114,7 @@
           "minOSVersion": null
         },
       ],
-       }
+       },
   ],
   "news": []
 }
