@@ -69,7 +69,16 @@
       "localizedDescription": "A flexible enhancer for YouTube on iOS, featuring over hundred customizable options.",
       "iconURL": "https://i.imgur.com/2OZ0LWG.png",
       "tintColor": "#fc0434",
-      "screenshots": [],
+      "screenshots": 
+      [
+        "https://github.com/ricosuave0922/YTLite/raw/main/Resources/scr1.jpg",
+        "https://github.com/ricosuave0922/YTLite/raw/main/Resources/scr2.jpg",
+        "https://github.com/ricosuave0922/YTLite/raw/main/Resources/scr4.jpg",
+        "https://github.com/ricosuave0922/YTLite/raw/main/Resources/scr5.jpg",
+        "https://github.com/ricosuave0922/YTLite/raw/main/Resources/scr6.jpg",
+        "https://github.com/ricosuave0922/YTLite/raw/main/Resources/scr7.jpg",
+        "https://github.com/ricosuave0922/YTLite/raw/main/Resources/scr8.jpg"
+      ],
       "versions": [
         {
           "downloadURL": "https://www.dropbox.com/scl/fi/7tuwzrh20cjh9nsueb3hy/YouTubePlus_20.36.3_5.2b3.ipa?rlkey=fjxptgx4p3ese2b8dd59f92wx&dl=1",
