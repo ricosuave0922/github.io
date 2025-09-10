@@ -15,6 +15,11 @@
     "developerName": "Eevee",
     "localizedDescription": "This tweak makes Spotify think you have a Premium subscription, granting free listening, just like Spotilife, and provides some additional features like custom lyrics.",    
     "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0c/1f/61/0c1f6144-af80-f395-3204-1d14fd8b2be7/AppIcon-0-0-1x_U007emarketing-0-6-0-0-85-220.png/512x512bb.jpg",
+    "screenshots": [
+        "https://github.com/SpotCompiled/SpotC-AltStore-Repo/raw/main/Spotilife%20Playing%20SS.png",
+        "https://github.com/SpotCompiled/SpotC-AltStore-Repo/raw/main/Spotilife%20PlayList%20SS.png",
+        "https://github.com/SpotCompiled/SpotC-AltStore-Repo/raw/main/Spotilife%20Library%20View%20SS.png"
+      ],
     "versions": [
         {
         "localizedDescription": "Spotify v9.0.78 injected with EeveeSpotify v6.1.3",
@@ -69,8 +74,7 @@
       "localizedDescription": "A flexible enhancer for YouTube on iOS, featuring over hundred customizable options.",
       "iconURL": "https://i.imgur.com/2OZ0LWG.png",
       "tintColor": "#fc0434",
-      "screenshots": 
-      [
+      "screenshots": [
         "https://github.com/ricosuave0922/YTLite/raw/main/Resources/scr1.jpg",
         "https://github.com/ricosuave0922/YTLite/raw/main/Resources/scr2.jpg",
         "https://github.com/ricosuave0922/YTLite/raw/main/Resources/scr4.jpg",
@@ -78,7 +82,7 @@
         "https://github.com/ricosuave0922/YTLite/raw/main/Resources/scr6.jpg",
         "https://github.com/ricosuave0922/YTLite/raw/main/Resources/scr7.jpg",
         "https://github.com/ricosuave0922/YTLite/raw/main/Resources/scr8.jpg"
-      ],
+       ],
       "versions": [
         {
           "downloadURL": "https://www.dropbox.com/scl/fi/7tuwzrh20cjh9nsueb3hy/YouTubePlus_20.36.3_5.2b3.ipa?rlkey=fjxptgx4p3ese2b8dd59f92wx&dl=1",
