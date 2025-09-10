@@ -6,6 +6,7 @@
   "website": "https://github.com/ricosuave0922/github.io/blob/main/repo.json?raw=true",
   "tintColor": "#6156e2",
   "featuredApps": [
+    "com.spotify.client",
     "com.google.ios.youtube",
     "com.google.ios.youtubemusic"
   ],
