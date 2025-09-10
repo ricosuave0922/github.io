@@ -7,8 +7,7 @@
   "tintColor": "#6156e2",
   "featuredApps": [
     "com.spotify.client",
-    "com.google.ios.youtube",
-    "com.google.ios.youtubemusic"
+    "com.google.ios.youtube"
   ],
   "apps": [
   {
