@@ -12,18 +12,14 @@
   "apps": [
   {
     "name": "EeveeSpotify",
-    "identifier": "com.eevee.source",
+    "bundleIdentifier": "com.spotify.client",
     "developerName": "Eevee",
+    "localizedDescription": "This tweak makes Spotify think you have a Premium subscription, granting free listening, just like Spotilife, and provides some additional features like custom lyrics.",    "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0c/1f/61/0c1f6144-af80-f395-3204-1d14fd8b2be7/AppIcon-0-0-1x_U007emarketing-0-6-0-0-85-220.png/512x512bb.jpg",
     "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0c/1f/61/0c1f6144-af80-f395-3204-1d14fd8b2be7/AppIcon-0-0-1x_U007emarketing-0-6-0-0-85-220.png/512x512bb.jpg",
-    "caption": "EeveeSpotify official source",
-    "description": "EeveeSpotify official source",
     "versions": [
         {
-        "bundleID": "com.spotify.client",
-        "caption": "Spotify v9.0.78 injected with EeveeSpotify v6.1.3",
-        "description": "Spotify v9.0.78 injected with EeveeSpotify v6.1.3",
+        "localizedDescription": "Spotify v9.0.78 injected with EeveeSpotify v6.1.3",
         "downloadURL": "https://www.dropbox.com/scl/fi/fr8yk62ihjxudyd53kht9/EeveeSpotify_9.0.78_6.1.3.ipa?rlkey=grp8hnbpyzkn02i6f47utc3fw&dl=1",
-        "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0c/1f/61/0c1f6144-af80-f395-3204-1d14fd8b2be7/AppIcon-0-0-1x_U007emarketing-0-6-0-0-85-220.png/512x512bb.jpg",
         "version": "9.0.78",
         "date": "2025-09-09",
         "size": 87743503
