@@ -22,6 +22,13 @@
       ],
     "versions": [
       {
+        "localizedDescription": "Spotify v9.0.82 injected with EeveeSpotify v6.1.4",
+        "downloadURL": "https://www.dropbox.com/scl/fi/hhxuaawgt3v0bp81jfj0u/EeveeSpotify_9.0.82_6.1.4.zip?rlkey=8rjzoewl8embehnmu9g796rh6&dl=1",
+        "version": "9.0.82",
+        "date": "2025-09-25",
+        "size": 85529422
+        },
+      {
         "localizedDescription": "Spotify v9.0.80 injected with EeveeSpotify v6.1.4",
         "downloadURL": "https://www.dropbox.com/scl/fi/yl6nvrzhjojvhmv8h2n9z/EeveeSpotify_9.0.80_6.1.4.ipa?rlkey=3fc5dwfeekm8mr0ixjljtr7fq&dl=1",
         "version": "9.0.80",
@@ -98,6 +105,14 @@
         "https://github.com/ricosuave0922/YTLite/raw/main/Resources/scr8.jpg"
        ],
       "versions": [
+        {
+          "downloadURL": "https://www.dropbox.com/scl/fi/pidyimqj42dplw2y9jip1/YouTubePlus_20.38.4_5.2b3.ipa?rlkey=ys1klq8dhat690b9laqdso6a8&dl=1",
+          "size": 116977147,
+          "version": "20.38.4",
+          "date": "2025-09-25",
+          "localizedDescription": "YouTube v20.38.4 injected with YTLite Plus 5.2b3",
+          "minOSVersion": null
+        },
         {
           "downloadURL": "https://www.dropbox.com/scl/fi/2xtz0aip5kn9m470utqie/YouTubePlus_20.38.3_5.2b3.ipa?rlkey=t8behi0v8gbruu6uzlx409951&dl=1",
           "size": 116976715,
@@ -218,6 +233,14 @@
       "tintColor": "#fc0434",
       "screenshots": [],
       "versions": [
+        {
+          "downloadURL": "https://www.dropbox.com/scl/fi/b3zqi7zdy8tedv4mg7que/YTMusicUltimate_8.38.3_v2.3.1.ipa?rlkey=9q7ce020q3eoadju0819mbjiv&dl=1",
+          "size": 92878888,
+          "version": "8.38.3",
+          "date": "2025-09-25",
+          "localizedDescription": "YouTube Music v8.38.3 injected with YTMusicUltimate v2.3.1",
+          "minOSVersion": null
+        },
         {
           "downloadURL": "https://www.dropbox.com/scl/fi/2r5wzibdblc1vbdnmfydi/YTMusicUltimate_8.37.3_v2.3.1.ipa?rlkey=v8yvagir62dpc21cn12zpcrxb&dl=1",
           "size": 95749279,
