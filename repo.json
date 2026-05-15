@@ -22,6 +22,13 @@
       ],
     "versions": [
       {
+        "localizedDescription": "Spotify v9.1.48 injected with EeveeSpotify v6.6.3.1",
+        "downloadURL": "https://www.dropbox.com/scl/fi/mrecnl2h6e2o8dl2028ic/EeveeSpotify_9.1.48_6.6.3.1.ipa?rlkey=fwffrdac9miztft10xlzvk0kn&dl=1",
+        "version": "9.1.48",
+        "date": "2026-05-15",
+        "size": 112302255
+        },
+      {
         "localizedDescription": "Spotify v9.0.82 injected with EeveeSpotify v6.1.5",
         "downloadURL": "https://www.dropbox.com/scl/fi/w4jw0sedbp8svsurcptdt/EeveeSpotify_9.0.82_6.1.5.ipa?rlkey=1mpapfa86rvbugmznza6xgds2&dl=1",
         "version": "9.0.82",
