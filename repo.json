@@ -59,6 +59,8 @@
       ],
     "appPermissions": {
         "entitlements": [
+          "com.apple.developer.storekit.custom-purchase-link.allowed-regions",
+          "com.apple.developer.declared-age-range",
           "com.apple.developer.usernotifications.communication",
           "com.apple.developer.group-session",
           "com.apple.developer.networking.multicast",
