@@ -250,6 +250,14 @@
       "screenshots": [],
       "versions": [
         {
+          "downloadURL": "https://www.dropbox.com/scl/fi/5hwf264svs5cnhnq6fnhe/YTMusicUltimate_9.19.5_v2.4.1.ipa?rlkey=2iqzif28ieft9a21qqvhtgkz1&dl=1",
+          "size": 96692301,
+          "version": "9.19.5",
+          "date": "2026-05-15",
+          "localizedDescription": "YouTube Music v9.19.5 injected with YTMusicUltimate v2.4.1",
+          "minOSVersion": null
+        },
+        {
           "downloadURL": "https://www.dropbox.com/scl/fi/x7c4sy1k5v9uq09xnpnhy/YTMusicUltimate_9.17.2_v2.4.1.ipa?rlkey=jgfkjj9fnppkbn3p3fiq9y6ib&dl=1",
           "size": 96138322,
           "version": "9.17.2",
