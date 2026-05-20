@@ -59,28 +59,17 @@
       ],
     "appPermissions": {
         "entitlements": [
-          "com.apple.developer.storekit.custom-purchase-link.allowed-regions",
-          "com.apple.developer.declared-age-range",
-          "com.apple.developer.usernotifications.communication",
-          "com.apple.developer.group-session",
-          "com.apple.developer.networking.multicast",
           "aps-environment",
           "com.apple.developer.carplay-audio",
           "com.apple.developer.associated-domains",
-          "com.apple.developer.networking.wifi-info",
           "com.apple.developer.siri",
-          "com.apple.developer.healthkit",
-          "com.apple.developer.applesignin",
           "keychain-access-groups",
-          "com.apple.developer.healthkit.access",
           "com.apple.security.application-groups",
           "get-task-allow",
-          "com.apple.developer.game-center"
         ],
         "privacy": {
           "NSAppleMusicUsageDescription": "This will let you play your imported music on Spotify.",
           "NSBluetoothAlwaysUsageDescription": "This lets you unlock new ways of interacting with other devices compatible with Spotify via Bluetooth.",
-          "NSBluetoothPeripheralUsageDescription": "This lets you unlock new ways of interacting with other devices compatible with Spotify via Bluetooth.",
           "NSCalendarsUsageDescription": "This lets Spotify view and add events to your calendar.",
           "NSCalendarsWriteOnlyAccessUsageDescription": "This lets Spotify add events to your calendar.",
           "NSCameraUsageDescription": "This lets you scan Spotify Codes.",
